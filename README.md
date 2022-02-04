@@ -1,17 +1,17 @@
-# CryptoApp
+# 📲 CryptoApp
 
 CryptoApp is an application in a student project. It allows you to visualize the most famous crypto-currencies with their price over the last days, months or years. The application is not finished and contains only two features: the visualization of the cryptocurrencies and add them to your favorites.
 
 TODO : Fake purchase system and history of transactions
 
-## How to Use 
+## 🚀 How to Use 
 
 **Step 1:**
 
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Lekta23/cryptoapp_flutter.git
+https://github.com/tatadozz/cryptoapp_flutter.git
 ```
 
 **Step 2:**
@@ -31,4 +31,6 @@ flutter run
 ```
 
 ## License & contributing
-FREE TO USE. GOOD LUCK !
+Free to use and modify the application. It is yours! Good luck!
+
+Created by @Lekta23 @AdrienGit62 @tatadozz
